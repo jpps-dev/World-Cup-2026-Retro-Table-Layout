@@ -29,7 +29,7 @@ The design intentionally follows the visual style of 1990s and early 2000s websi
 Website
 
 Live Website:
-https://jpps-dev.github.io/world-cup-2026-retro-table-layout/
+https://jpps-dev.github.io/World-Cup-2026-Retro-Table-Layout/
 
 Source Code:
 https://github.com/jpps-dev/world-cup-2026-retro-table-layout
